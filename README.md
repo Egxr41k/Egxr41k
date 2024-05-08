@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **CLR via C#, React, Tailwind**
 
-- 🤝 I’m looking for help with [TicTacToe](https://github.com/Egxr41k/TicTacToe)
+- 🤝 I’m looking for help with [Personate](https://github.com/Egxr41k/Personate)
 
 - 👨‍💻 All of my projects are available at [https://egxr41k.github.io/Portfolio/](https://egxr41k.github.io/Portfolio/)
 
